@@ -9,11 +9,30 @@ Comprehensive Power BI dashboard analyzing Babar Azam's cricket performance acro
   - Visualization of cricket metrics
   - Multi-format performance tracking
 
-1. **KPI Monitoring**
-   - Visual representation of essential KPIs for business performance.
-   - Provides insights into sales, customer behavior, and operational efficiency.
+ **Key Performance Metrics**
+   - Total Runs
+   - Batting Average
+   - Strike Rate
+   - Innings Played
+   - Format-wise Comparisons
 
-2
+ **Data Sources**
+   - Excel spreadsheets
+   - Cricket performance records
+
+ **Dashboard Capabilities**
+   - Interactive performance tracking
+   - Yearly trend analysis
+   - Comparative format visualization
+
+ **Insights**
+   - Performance trend evaluation
+   - Format-specific performance breakdown
+   - Statistical performance analysis
+
+### Screenshots
+#### Dashboard Overview
+![Dashboard Overview](./cricketplayerdashboard.png)
 
 ### **Contact**
 For any inquiries or feedback, feel free to contact:  
